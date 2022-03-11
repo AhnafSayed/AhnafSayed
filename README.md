@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ahnaf Sayed</h1>
-<h3 align="center">Currently in final semester  AIUB</h3>
+<h1 align="center">Hi 👋, I'm Ahnaf Sayed!</h1>
+<h3 align="center">Currently studing B.Sc. CIS at AIUB and completing final semester.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhnafSayed&label=Profile%20views&color=0e75b6&style=flat" alt="AhnafSayed" /> </p>
 
 - 🔭 I’m currently working on **Healing Infirmary Project.**
 
-- 🌱 I’m currently learning **Python and Blender graphics works.**
+- 🌱 I’m currently learning **DevOps,Python and Blender graphics works.**
+
+- ⚒️ I'm an amateur programmer. 
 
 
 
