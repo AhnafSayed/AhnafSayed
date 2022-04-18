@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development.** 
 
-- 🌱 I’m currently learning **DevOps,Python and Blender graphics works.**
+- 🌱 I’m currently learning **Flutter, DevOps, Python and Blender graphics works.**
 
 - ⚒️ I'm an amateur programmer. 
 
