@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="30" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Hand Waving">! I'm Ahnaf Sayed from Bangladesh <img width="30" src="https://c.tenor.com/RYRZ04N-Bg8AAAAi/bangladesh-gifgari.gif" alt="Bangladesh">!</h1>
-<h3 align="center">I'm working as a Flutter Developer Intern at TwinForce Solutions. I have completed BSc. in Computer Information Systems from American International University - Bangladesh (AIUB)<img width="30" src="https://upload.wikimedia.org/wikipedia/en/4/45/AIUB_whole_logo.png" alt="AIUB">.</h3>
+<h3 align="center">I'm working as a Flutter Developer Intern at TwinForce Solutions. I have completed BSc. in Computer Information Systems from American International University - Bangladesh (AIUB)<img width="30" src="https://upload.wikimedia.org/wikipedia/en/4/45/AIUB_whole_logo.png" href="https://www.aiub.edu/" alt="AIUB">.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhnafSayed&label=Profile%20views&color=0e75b6&style=flat" alt="AhnafSayed" /> </p>
 
