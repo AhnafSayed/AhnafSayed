@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhnafSayed&label=Profile%20views&color=0e75b6&style=flat" alt="AhnafSayed" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Application Development using Flutter.** 
+- 🔭 I’m currently working on **Web Development and Mobile Application Development using Flutter.** 
 
 - 🌱 I’m currently learning **DevOps, Python and Blender graphics works.**
 
