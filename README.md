@@ -17,9 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=AhnafSayed)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats-beryl.vercel.app/api?username=AhnafSayed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafSayed&show_icons=true&locale=en" alt="AhnafSayed" />
+<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=AhnafSayed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="AhnafSayed" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhnafSayed&" alt="AhnafSayed" />
 
