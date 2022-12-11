@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img width="30" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Hand Waving"> I'm Ahnaf Sayed from Bangladesh! <img width="30" src="https://c.tenor.com/RYRZ04N-Bg8AAAAi/bangladesh-gifgari.gif" alt="Bangladesh"></h1>
-<h3 align="center">I'm working as Web Developer at TwinForce Solutions. I have completed BSc. in Computer Information System from American International University - Bangladesh (AIUB). Now I'm completing my MSc. in Information and Communication Technology from Bangladesh University of Professionals (BUP) <img width="30"  href="https://www.aiub.edu/" src="https://en.wikipedia.org/wiki/American_International_University-Bangladesh#/media/File:American_International_University-Bangladesh_Monogram.svg" alt="AIUB"></h3>
+<h3 align="center">I'm working as Web Developer at TwinForce Solutions. I have completed BSc. in Computer Information System from American International University - Bangladesh (AIUB). Now I'm completing my MSc. in Information and Communication Technology from <b href="https://www.aiub.edu/">Bangladesh University of Professionals (BUP).</b> <img width="30"  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhnafSayed&label=Profile%20views&color=0e75b6&style=flat" alt="AhnafSayed" /> </p>
 
